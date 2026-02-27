@@ -1,0 +1,9 @@
+{
+  "query": "DELETE FROM trainings; DELETE FROM employees;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway04.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 33cxZvd9btMhCrR.569e865b40c0 --database bw6Hb5H4SN4siyShsTNSS3 --execute DELETE FROM trainings; DELETE FROM employees;",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 99
+}
